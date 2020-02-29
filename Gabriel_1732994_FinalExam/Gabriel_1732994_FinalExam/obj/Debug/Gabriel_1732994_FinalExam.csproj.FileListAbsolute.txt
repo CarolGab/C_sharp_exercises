@@ -1,0 +1,7 @@
+c:\users\cg_19\Source\Repos\Gabriel_1732994_FinalExam\Gabriel_1732994_FinalExam\bin\Debug\Gabriel_1732994_FinalExam.exe.config
+c:\users\cg_19\Source\Repos\Gabriel_1732994_FinalExam\Gabriel_1732994_FinalExam\bin\Debug\Gabriel_1732994_FinalExam.exe
+c:\users\cg_19\Source\Repos\Gabriel_1732994_FinalExam\Gabriel_1732994_FinalExam\bin\Debug\Gabriel_1732994_FinalExam.pdb
+c:\users\cg_19\Source\Repos\Gabriel_1732994_FinalExam\Gabriel_1732994_FinalExam\obj\Debug\Gabriel_1732994_FinalExam.csprojResolveAssemblyReference.cache
+c:\users\cg_19\Source\Repos\Gabriel_1732994_FinalExam\Gabriel_1732994_FinalExam\obj\Debug\Gabriel_1732994_FinalExam.csproj.CoreCompileInputs.cache
+c:\users\cg_19\Source\Repos\Gabriel_1732994_FinalExam\Gabriel_1732994_FinalExam\obj\Debug\Gabriel_1732994_FinalExam.exe
+c:\users\cg_19\Source\Repos\Gabriel_1732994_FinalExam\Gabriel_1732994_FinalExam\obj\Debug\Gabriel_1732994_FinalExam.pdb
