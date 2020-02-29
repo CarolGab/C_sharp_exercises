@@ -1,0 +1,14 @@
+C:\Users\cg_19\Source\Repos\singletonMethod\singletonMethod\bin\Debug\singletonMethod.exe.config
+C:\Users\cg_19\Source\Repos\singletonMethod\singletonMethod\bin\Debug\singletonMethod.exe
+C:\Users\cg_19\Source\Repos\singletonMethod\singletonMethod\bin\Debug\singletonMethod.pdb
+C:\Users\cg_19\Source\Repos\singletonMethod\singletonMethod\obj\Debug\singletonMethod.csprojAssemblyReference.cache
+C:\Users\cg_19\Source\Repos\singletonMethod\singletonMethod\obj\Debug\singletonMethod.csproj.CoreCompileInputs.cache
+C:\Users\cg_19\Source\Repos\singletonMethod\singletonMethod\obj\Debug\singletonMethod.exe
+C:\Users\cg_19\Source\Repos\singletonMethod\singletonMethod\obj\Debug\singletonMethod.pdb
+C:\Users\cg_19\Documents\Visual Studio 2017\singletonMethod\singletonMethod\bin\Debug\singletonMethod.exe.config
+C:\Users\cg_19\Documents\Visual Studio 2017\singletonMethod\singletonMethod\bin\Debug\singletonMethod.exe
+C:\Users\cg_19\Documents\Visual Studio 2017\singletonMethod\singletonMethod\bin\Debug\singletonMethod.pdb
+C:\Users\cg_19\Documents\Visual Studio 2017\singletonMethod\singletonMethod\obj\Debug\singletonMethod.csprojAssemblyReference.cache
+C:\Users\cg_19\Documents\Visual Studio 2017\singletonMethod\singletonMethod\obj\Debug\singletonMethod.csproj.CoreCompileInputs.cache
+C:\Users\cg_19\Documents\Visual Studio 2017\singletonMethod\singletonMethod\obj\Debug\singletonMethod.exe
+C:\Users\cg_19\Documents\Visual Studio 2017\singletonMethod\singletonMethod\obj\Debug\singletonMethod.pdb
