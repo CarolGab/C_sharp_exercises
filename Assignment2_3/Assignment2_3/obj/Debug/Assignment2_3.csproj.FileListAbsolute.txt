@@ -1,0 +1,14 @@
+C:\Users\cg_19\Source\Repos\Assignment2_3\Assignment2_3\bin\Debug\Assignment2_3.exe.config
+C:\Users\cg_19\Source\Repos\Assignment2_3\Assignment2_3\bin\Debug\Assignment2_3.exe
+C:\Users\cg_19\Source\Repos\Assignment2_3\Assignment2_3\bin\Debug\Assignment2_3.pdb
+C:\Users\cg_19\Source\Repos\Assignment2_3\Assignment2_3\obj\Debug\Assignment2_3.csprojResolveAssemblyReference.cache
+C:\Users\cg_19\Source\Repos\Assignment2_3\Assignment2_3\obj\Debug\Assignment2_3.csproj.CoreCompileInputs.cache
+C:\Users\cg_19\Source\Repos\Assignment2_3\Assignment2_3\obj\Debug\Assignment2_3.exe
+C:\Users\cg_19\Source\Repos\Assignment2_3\Assignment2_3\obj\Debug\Assignment2_3.pdb
+C:\Users\cg_19\Documents\Visual Studio 2017\Assignment2_3\Assignment2_3\bin\Debug\Assignment2_3.exe.config
+C:\Users\cg_19\Documents\Visual Studio 2017\Assignment2_3\Assignment2_3\bin\Debug\Assignment2_3.exe
+C:\Users\cg_19\Documents\Visual Studio 2017\Assignment2_3\Assignment2_3\bin\Debug\Assignment2_3.pdb
+C:\Users\cg_19\Documents\Visual Studio 2017\Assignment2_3\Assignment2_3\obj\Debug\Assignment2_3.csprojAssemblyReference.cache
+C:\Users\cg_19\Documents\Visual Studio 2017\Assignment2_3\Assignment2_3\obj\Debug\Assignment2_3.csproj.CoreCompileInputs.cache
+C:\Users\cg_19\Documents\Visual Studio 2017\Assignment2_3\Assignment2_3\obj\Debug\Assignment2_3.exe
+C:\Users\cg_19\Documents\Visual Studio 2017\Assignment2_3\Assignment2_3\obj\Debug\Assignment2_3.pdb
